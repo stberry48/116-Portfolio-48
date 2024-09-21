@@ -1,0 +1,12 @@
+/*About Me Section */
+.about-image-container img {
+    width:50%;
+}
+
+.about-image-container {
+    background-color: cadetblue;
+}
+
+.about-description-container {
+    background-color: coral;
+}
